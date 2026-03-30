@@ -1,4 +1,5 @@
 ﻿using CheapFlight.Domain.Settings;
+using CheapFlight.Infrastructure.Common;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using MongoDB.Driver;
@@ -20,6 +21,7 @@ namespace CheapFlight.Infrastructure
             var mongoDatabase = mongoClient.GetDatabase(mongodbSettings.DatabaseName);
 
             services.AddSingleton(mongoDatabase);
+            services.AddScoped<IBaseRepository, BaseRepository>();
             return services;
         }
     }
