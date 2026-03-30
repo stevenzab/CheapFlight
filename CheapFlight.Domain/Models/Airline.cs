@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CheapFlight.Domain.Models
 {
-    public class Airline
+    public class Airline : RepositoryCollection
     {
         public string Code { get; set; } = string.Empty;
         public string Name { get; set; } = string.Empty;
