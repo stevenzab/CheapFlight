@@ -1,0 +1,12 @@
+[
+  { "code": "AFR", "name": "Air France" },
+  { "code": "BAW", "name": "British Airways" },
+  { "code": "KLM", "name": "KLM Royal Dutch Airlines" },
+  { "code": "DLH", "name": "Lufthansa" },
+  { "code": "IBE", "name": "Iberia" },
+  { "code": "AZA", "name": "Alitalia" },
+  { "code": "UAE", "name": "Emirates" },
+  { "code": "SIA", "name": "Singapore Airlines" },
+  { "code": "JAL", "name": "Japan Airlines" },
+  { "code": "AAL", "name": "American Airlines" }
+]

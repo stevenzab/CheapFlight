@@ -1,0 +1,65 @@
+[
+  {
+    "flightNumber": "AF1234",
+    "airlineCode": "AFR",
+    "departureAirport": "CDG",
+    "arrivalAirport": "LHR",
+    "departureTime": "2023-04-20T06:00:00Z",
+    "arrivalTime":   "2023-04-20T07:10:00Z",
+    "price": 120.00
+  },
+  {
+    "flightNumber": "AF5678",
+    "airlineCode": "AFR",
+    "departureAirport": "LHR",
+    "arrivalAirport": "JFK",
+    "departureTime": "2023-04-20T09:00:00Z",
+    "arrivalTime":   "2023-04-20T12:30:00Z",
+    "price": 450.00
+  },
+  {
+    "flightNumber": "BA202",
+    "airlineCode": "BAW",
+    "departureAirport": "CDG",
+    "arrivalAirport": "LHR",
+    "departureTime": "2023-04-20T08:00:00Z",
+    "arrivalTime":   "2023-04-20T09:05:00Z",
+    "price": 135.00
+  },
+  {
+    "flightNumber": "BA178",
+    "airlineCode": "BAW",
+    "departureAirport": "LHR",
+    "arrivalAirport": "JFK",
+    "departureTime": "2023-04-20T11:00:00Z",
+    "arrivalTime":   "2023-04-20T14:10:00Z",
+    "price": 480.00
+  },
+  {
+    "flightNumber": "KL1234",
+    "airlineCode": "KLM",
+    "departureAirport": "CDG",
+    "arrivalAirport": "AMS",
+    "departureTime": "2023-04-20T07:30:00Z",
+    "arrivalTime":   "2023-04-20T09:00:00Z",
+    "price": 90.00
+  },
+  {
+    "flightNumber": "KL601",
+    "airlineCode": "KLM",
+    "departureAirport": "AMS",
+    "arrivalAirport": "JFK",
+    "departureTime": "2023-04-20T10:30:00Z",
+    "arrivalTime":   "2023-04-20T13:45:00Z",
+    "price": 420.00
+  },
+  {
+    "flightNumber": "DL100",
+    "airlineCode": "AAL",
+    "departureAirport": "CDG",
+    "arrivalAirport": "JFK",
+    "departureTime": "2023-04-20T10:00:00Z",
+    "arrivalTime":   "2023-04-20T13:15:00Z",
+    "price": 530.00
+  }
+]

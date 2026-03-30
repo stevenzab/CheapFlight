@@ -1,0 +1,17 @@
+[
+  { "code": "CDG", "name": "Charles de Gaulle",       "city": "Paris",        "country": "FR" },
+  { "code": "ORY", "name": "Orly",                    "city": "Paris",        "country": "FR" },
+  { "code": "LHR", "name": "Heathrow",                "city": "London",       "country": "GB" },
+  { "code": "LGW", "name": "Gatwick",                 "city": "London",       "country": "GB" },
+  { "code": "AMS", "name": "Schiphol",                "city": "Amsterdam",    "country": "NL" },
+  { "code": "FRA", "name": "Frankfurt am Main",       "city": "Frankfurt",    "country": "DE" },
+  { "code": "MAD", "name": "Adolfo Suárez",           "city": "Madrid",       "country": "ES" },
+  { "code": "BCN", "name": "El Prat",                 "city": "Barcelona",    "country": "ES" },
+  { "code": "FCO", "name": "Leonardo da Vinci",       "city": "Rome",         "country": "IT" },
+  { "code": "MXP", "name": "Malpensa",                "city": "Milan",        "country": "IT" },
+  { "code": "JFK", "name": "John F. Kennedy",         "city": "New York",     "country": "US" },
+  { "code": "LAX", "name": "Los Angeles Intl",        "city": "Los Angeles",  "country": "US" },
+  { "code": "DXB", "name": "Dubai Intl",              "city": "Dubai",        "country": "AE" },
+  { "code": "SIN", "name": "Changi",                  "city": "Singapore",    "country": "SG" },
+  { "code": "NRT", "name": "Narita",                  "city": "Tokyo",        "country": "JP" }
+]
