@@ -31,7 +31,7 @@ artifacts/
 # ASP.NET Scaffolding
 ScaffoldingReadMe.txt
 .vs/*
-CheapFlight/.vs/*
+CheapFlight.API/.vs/*
 
 # NuGet Packages
 *.nupkg
