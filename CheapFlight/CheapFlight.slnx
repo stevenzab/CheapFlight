@@ -1,6 +1,0 @@
-<Solution>
-  <Project Path="../CheapFlight.Application/CheapFlight.Application.csproj" />
-  <Project Path="../CheapFlight.Domain/CheapFlight.Domain.csproj" />
-  <Project Path="../CheapFlight.Infrastructure/CheapFlight.Infrastructure.csproj" />
-  <Project Path="CheapFlight.API.csproj" />
-</Solution>
